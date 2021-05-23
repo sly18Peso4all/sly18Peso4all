@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sly18Peso4all
+- 👋 Hi, I'm Joseph!
 - 👀 I’m interested in building interactive,robust and responsive project.
 - 🌱 I’m currently learning Vue and TDD.
 - 💞️ I’m looking to collaborate on projects where i utilize my full potential in both frontend and backend
