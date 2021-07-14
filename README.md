@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Joseph!
-- 👀 I’m interested in building interactive,robust and responsive project.
+- 👀 I’m interested in building interactive, robust, clean and responsive projects.
 - 🌱 I’m currently learning Vue and TDD.
 - 💞️ I’m looking to collaborate on projects where i utilize my full potential in both frontend and backend
 - 📫 How to reach me on linkedin -- linkedin.com/in/joseph-onuoha
