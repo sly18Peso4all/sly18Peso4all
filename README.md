@@ -6,7 +6,7 @@
                 
                              🌱 I’m currently learning Vue and TDD.
                
-             💞️ I’m looking to collaborate on projects where i utilize my full potential in both frontend and backend
+             💞️ I’m looking to collaborate on projects where i utilize my full potential in both frontend and backend projects
  
  
                📫 How to reach me on linkedin -- linkedin.com/in/joseph-onuoha
